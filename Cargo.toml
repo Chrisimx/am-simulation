@@ -1,0 +1,11 @@
+[package]
+name = "chatgpt-mist"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rustfft = "6.0"
+plotters = "0.3"
+num-complex = "0.4"
+biquad = "0.4.2"
+cpal = "0.15.3"
